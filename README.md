@@ -6,7 +6,7 @@ An AI-powered disaster response dashboard demonstrating how autonomous agents ca
 
 ## 🚀 Live Demo
 
-👉 [View Live Demo on Vercel](#) *(update after deployment)*
+👉 https://crisis-coordinator-zeta.vercel.app
 
 ## ⚡ What It Does
 
