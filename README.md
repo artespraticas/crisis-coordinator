@@ -35,7 +35,7 @@ Most unsolvable problems — climate change, housing crises, disaster response �
 ## 👤 Builder
 
 **Reis Mesquita** — Designer & AI/Crypto builder
-Twitter: [@artespraticas](https://twitter.com/artespraticas)
+Farcaster: [@artespraticas](https://farcaster.xyz/artespraticas)
 
 ---
 *Built for The Synthesis Hackathon — March 2026*
