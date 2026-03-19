@@ -6,7 +6,7 @@ An AI-powered disaster response dashboard demonstrating how autonomous agents so
 
 ## 🚀 Live Demo
 
-👉 **[crisis-coordinator.vercel.app](#)** *(update with Vercel URL)*
+👉 **[https://crisis-coordinator-zeta.vercel.app/](#)** 
 
 ## ⚡ How It Works
 
@@ -34,7 +34,7 @@ Most of humanity's hardest problems — climate change, housing, disaster respon
 ## 👤 Builder
 
 **Reis Mesquita** — Designer & AI/Crypto builder
-Twitter: [@artespraticas](https://twitter.com/artespraticas)
+Twitter: [@artespraticas13](https://twitter.com/artespraticas13)
 
 ---
 *Built for The Synthesis Hackathon — March 2026*
