@@ -1,0 +1,35 @@
+{
+  "name": "crisis-coordinator",
+  "version": "1.0.0",
+  "description": "A prototype of the Global Coordination Agent — real-time war strike disaster response powered by live AI reasoning and on-chain logging.",
+  "main": "src/crisis-coordinator.html",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "deploy": "node scripts/deploy.js",
+    "deploy:base": "npx hardhat run scripts/deploy.js --network base",
+    "open": "open src/crisis-coordinator.html"
+  },
+  "keywords": [
+    "coordination",
+    "disaster-response",
+    "ai-agent",
+    "base-network",
+    "erc-8004",
+    "the-synthesis",
+    "hackathon",
+    "global-coordination-agent"
+  ],
+  "author": "Reis Mesquita <artespraticas@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/artespraticas/crisis-coordinator"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "ethers": "^6.11.0"
+  }
+}

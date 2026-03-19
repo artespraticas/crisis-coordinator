@@ -1,0 +1,6 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/src/crisis-coordinator.html" },
+    { "source": "/(.*)", "destination": "/src/crisis-coordinator.html" }
+  ]
+}
